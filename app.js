@@ -13,7 +13,7 @@ app.use(express.static(path.join(__dirname, "public")));
 
 /*app.get("/", (req, res) => {
     res.sendFile(__dirname + "/index.html") 
-});*/
+});;*/
 
 const hasName = false;
 let users = 0;
